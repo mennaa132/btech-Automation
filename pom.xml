@@ -9,10 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <selenium.version>4.1.2</selenium.version>
-        <testng.version>7.5</testng.version>
-        <webdrivermanager.version>5.1.0</webdrivermanager.version>
-        <jackson.version>2.13.0</jackson.version>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
